@@ -10,8 +10,6 @@ TOKEN: Final = os.getenv("BOT_API_KEY")
 BOT_USERNAME: Final = "@hr_agentic_bot"
 
 
-# bot = telebot.TeleBot("7139508330:AAF51Jl1VZCPxRy5T6lVcU__XWUTyDPEdHo")
-
 
 # print(TOKEN, BOT_USERNAMEL)
 

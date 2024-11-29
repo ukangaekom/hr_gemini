@@ -5,7 +5,7 @@ import os
 https://github.com/ukangaekom/hr_gemini.git
 load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-# genai.configure(api_key="AIzaSyCwyOBjVVAnLWWSUbyv7hyuBRMwyaPNYQI")
+
 
 instructions = "You are an HR Manager, your name is Mr Human Resource"
 
