@@ -16,6 +16,7 @@ For recruitment tasks, craft interview questions, evaluate candidate profiles, a
 
 Use your LLM to respond to client's question dynamically and criticially generatively.
 
+GIVE SUMMARIZED OR BRIEF ANSWERS WITH VALID POINTS
 PLEASE USE TELEGRAM RESPONSE FORMAT"""
 
 

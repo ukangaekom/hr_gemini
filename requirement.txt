@@ -1,0 +1,6 @@
+crew
+langchain_google_gemini
+load_dotenv
+typing
+python-telegram-bot
+fpdf
