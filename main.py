@@ -17,8 +17,7 @@ BOT_USERNAME: Final = "@hr_agentic_bot"
 # using async await to create bot functions
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text('Hello Welcome to flamingo help desk. Reply /help '
-                                    ' to know more about flamingo services')
+    await update.message.reply_text("Hello! Welcome to Agentic HR interface, kindly chat with messages!")
 
 
 # More commands can be written below
